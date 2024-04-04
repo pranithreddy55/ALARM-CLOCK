@@ -3,11 +3,15 @@
 This repository contains two Python scripts for creating an Alarm Clock and a Digital Clock using the Tkinter library.
 
 #Features
+
 Alarm Clock
+
 Set alarm time by selecting hours, minutes, and seconds.
 Plays a sound when the set time matches the current time.
 Allows stopping the alarm manually.
+
 #Digital Clock
+
 Displays the current time in hours, minutes, seconds, and AM/PM format.
 Updates every second.
 #Prerequisites
